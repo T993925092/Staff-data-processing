@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.txl</groupId>
-    <artifactId>personal-data-stat</artifactId>
+    <artifactId>staff-data-processing</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>personal-data-stat</name>
     <description>Demo project for Spring Boot</description>
